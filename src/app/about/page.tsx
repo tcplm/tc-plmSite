@@ -14,8 +14,8 @@ const AboutPage = () => {
   return (
     <>
       <Breadcrumb
-        pageName="About Page"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        pageName="About Us"
+        description="Zenprist Solutions is a specialized service provider primarily focused on delivering advanced solutions in Teamcenter Product Lifecycle Management (PLM). With a commitment to optimizing product development processes, Zenprist Solutions helps organizations streamline their data management, enhance collaboration, and improve overall efficiency. Leveraging deep expertise in Teamcenter PLM, the company offers tailored implementations, custom integrations, and ongoing support to ensure clients can effectively manage complex product lifecycles from concept to end-of-life. Zenprist Solutions stands at the intersection of innovation and precision, helping businesses achieve operational excellence through seamless PLM strategies."
       />
       <AboutSectionOne />
       <AboutSectionTwo />
