@@ -13,8 +13,8 @@ const ContactPage = () => {
   return (
     <>
       <Breadcrumb
-        pageName="Contact Page"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        pageName="Contact Us"
+        description="We’d love to hear from you! Whether you have inquiries about our services, need support, or want to explore how Zenprist Solutions can assist with your Teamcenter PLM needs, feel free to reach out. Our team is here to help."
       />
 
       <Contact />
